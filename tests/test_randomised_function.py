@@ -1,5 +1,6 @@
 import unittest
 from lecture import randomised_function
+from unittest.mock import patch
 
 class MyTestCase(unittest.TestCase):
 
